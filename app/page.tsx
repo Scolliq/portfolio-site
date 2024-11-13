@@ -145,11 +145,7 @@ export default function Home() {
                 {/* NVDA Analysis */}
                 <div>
                   <h4 className="font-bold text-blue-300">NVIDIA (NVDA)</h4>
-                  <p>Strategic investment in AI and semiconductor leadership. Limited position size manages risk while maintaining exposure to growth. Please also not this position has been trimmed throughout the year due to the explosive growth and better risk mangement.</p>
-                </div>
-                <div>
-                  <h4 className="font-bold text-blue-300">NIKE(NKE)</h4>
-                  <p>This investment was due to the rapid decrease in stock price following an earnings report. Even though it has been falling for years it looks to be at a critical level for a bounce and it also even after the multi year downward spiral it still holds a majority in market cap.</p>
+                  <p>Strategic investment in AI and semiconductor leadership. Limited position size is due to trimming the position throughout the year <p>
                 </div>
               </div>
             </div>
